@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html ng-app="jekyll-ng-material-design" ng-controller="jekyllController">
+  {% include head.html %}
+
+  <body layout="column">
+    {% include nav.html %}
+    <div tabindex="-1" layout="column" role="main" flex>
+      {% include toolbar.html %}
+
+      <md-content>
+        {{ content }}
+      </md-content>
+
+    {% include scripts.html %}
+    </div>
+  </body>
+</html>

@@ -1,0 +1,26 @@
+{
+  "name": "jekyll-ng-material-design",
+  "version": "1.0.0",
+  "description": "jekyll site using angular material design",
+  "author": "Alex \"Ingshtrom\" Hokanson",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ingshtrom/jekyll-ng-material-design.git"
+  },
+  "keywords": [
+    "jekyll",
+    "materialdesign",
+    "angularjs"
+  ],
+  "bugs": {
+    "url": "https://github.com/ingshtrom/jekyll-ng-material-design/issues"
+  },
+  "homepage": "https://github.com/ingshtrom/jekyll-ng-material-design",
+  "dependencies": {
+    "angular": "^1.3.14",
+    "angular-animate": "^1.3.14",
+    "angular-aria": "^1.3.14",
+    "angular-material": "^0.8.2"
+  }
+}

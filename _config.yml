@@ -1,0 +1,19 @@
+# Site settings
+title: Mystic Gear Studios
+email: alex.hokanson@mysticgear.com
+description: |
+  I am Alex 'Ingshtrom' Hokanson. This site is about all the things 
+  that I hold dear to my heart. I hope you enjoy it and find it useful!
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://mysticgear.com" # the base hostname & protocol for your site
+twitter_username: ingshtrom
+github_username:  ingshtrom
+
+highlighter: pygments
+
+# GitHub settings
+# These will always be overriden by GitHub
+# 
+# safe: true
+# lsi: false
+# source: your top-level directory

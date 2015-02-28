@@ -1,0 +1,771 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fil",
+				"filteredDups	(?)"
+			],
+			[
+				"getGri",
+				"getGridCheckboxChecked"
+			],
+			[
+				"setting",
+				"settingsCog"
+			],
+			[
+				"isN",
+				"isNgcLienOrg"
+			],
+			[
+				"buyer",
+				"buyerBusinessNumber"
+			],
+			[
+				"dataSource",
+				"businessSearchGridDataSource"
+			],
+			[
+				"contractSear",
+				"contractSearchGridDataSource"
+			],
+			[
+				"bu",
+				"business_number"
+			],
+			[
+				"defaul",
+				"defaultContractSearchObj"
+			],
+			[
+				"floo",
+				"floorplanDataSource"
+			],
+			[
+				"searh",
+				"searchParams"
+			],
+			[
+				"userAccount",
+				"userAccountGridOptions"
+			],
+			[
+				"security",
+				"securityUserRoles"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "css/main.scss",
+			"settings":
+			{
+				"buffer_size": 921,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Package Control Messages\n========================\n\nJekyll:\n------\n\n  Thanks for installing sublime-jekyll!\n  \n  This package should help maintaining Jekyll sites and posts easier by providing access to new post/draft shortcuts, key template tags and filters, as well as common completions and a current date/datetime command (for dating posts).\n  \n  \n  After installing this package, make sure you configure your User settings file. The most important piece of this is to set your `posts_path` and `drafts_path` locations. This can also be set on a per-project basis later if you have multiple Jekyll sites you wish to manage.\n  \n  {\n  \n      // This should point to your \"_posts\" directory.\n      // NOTE: This should be an absolute path. Also, the path should\n      // match your system convention. For example, Windows machines should\n      // have a path similar to \"C:\\\\Users\\\\username\\\\site\\\\_posts\".\n      // *nix systems should have a path similar to \"/Users/username/site/_posts\".\n      \"posts_path\": \"\",\n  \n      // This should point to your \"_drafts\" directory.\n      // NOTE: This should be an absolute path. Also, the path should\n      // match your system convention. For example, Windows machines should\n      // have a path similar to \"C:\\\\Users\\\\username\\\\site\\\\_drafts\".\n      // *nix systems should have a path similar to \"/Users/username/site/_drafts\".\n      \"drafts_path\": \"\",\n  \n  }\n  \n  ```\n  \n  For per-project settings, make sure you add your Jekyll settings correctly to your project settings file:\n  \n  {\n      \"folders\":\n      [\n          {\n              \"follow_symlinks\": true,\n              \"path\": \"/Users/username/site/\"\n          }\n      ],\n  \n      \"settings\":\n      {\n          \"Jekyll\":\n          {\n              \"posts_path\": \"/Users/username/site/_posts\",\n              \"drafts_path\": \"/Users/username/site/_drafts\",\n          }\n      }\n  }\n  \n  \n  If you have any questions or issues, please visit the homepage and log an issue: http://23maverick23.github.io/sublime-jekyll/\n  ",
+			"settings":
+			{
+				"buffer_size": 2017,
+				"line_ending": "Unix",
+				"name": "Package Control Messages",
+				"scratch": true
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"selected_items":
+		[
+			[
+				"pci",
+				"Package Control: Install Package"
+			],
+			[
+				"jshint",
+				"JSHint: Set Linting Preferences"
+			],
+			[
+				"jshin",
+				"JSHint"
+			],
+			[
+				"hint",
+				"JSHint: Set Linting Preferences"
+			],
+			[
+				"pcl",
+				"Package Control: List Packages"
+			],
+			[
+				"pcr",
+				"Package Control: Remove Package"
+			],
+			[
+				"lint",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"schemr",
+				"Schemr: List all schemes"
+			],
+			[
+				"themr",
+				"Themr: List themes"
+			],
+			[
+				"show all",
+				"SublimeLinter: Show All Errors"
+			]
+		],
+		"width": 601.0
+	},
+	"console":
+	{
+		"height": 477.0,
+		"history":
+		[
+			"view.run_command(\"jshint\")",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/alex/GitHub/jekyll-ng-material-design",
+		"/Users/alex/GitHub/jekyll-ng-material-design/.sass-cache/7c0af149574e0296ffcfd63f940e5508fe5c0c93",
+		"/Users/alex/GitHub/jekyll-ng-material-design/_sass",
+		"/Users/alex/GitHub/jekyll-ng-material-design/css",
+		"/Users/alex/GitHub/jekyll-ng-material-design/js",
+		"/Users/alex/GitHub/jekyll-ng-material-design/node_modules",
+		"/Users/alex/GitHub/jekyll-ng-material-design/node_modules/angular-material"
+	],
+	"file_history":
+	[
+		"/Users/alex/GitHub/jekyll-ng-material-design/css/main.scss",
+		"/Users/alex/GitHub/jekyll-ng-material-design/js/angular.min.js",
+		"/Users/alex/GitHub/jekyll-ng-material-design/_includes/scripts.html",
+		"/Users/alex/GitHub/jekyll-ng-material-design/_includes/head.html",
+		"/Users/alex/GitHub/jekyll-ng-material-design/package.json",
+		"/Users/alex/GitHub/jekyll-ng-material-design/_layouts/default.html",
+		"/Users/alex/GitHub/jekyll-ng-material-design/_config.yml",
+		"/Users/alex/GitHub/jekyll-ng-material-design/css/angular-material.min.css",
+		"/Users/alex/GitHub/jekyll-poc/_config.yml",
+		"/Users/alex/BitBucket/ngen-3391-playground/db.json",
+		"/Users/alex/BitBucket/ngen-3391-playground/index.html",
+		"/Users/alex/BitBucket/ngen-3391-playground/cache.manifest",
+		"/Users/alex/BitBucket/ngen/client/app/components/business/index.html",
+		"/Users/alex/BitBucket/ngen/client/app/components/business/contacts/business_contact.js",
+		"/Users/alex/BitBucket/ngen/client/app/components/contract/contract_application.js",
+		"/Users/alex/BitBucket/ngen/client/app/services/grid/grid_service.js",
+		"/Users/alex/BitBucket/ngen/client/app/components/business/contacts/business_contact.html",
+		"/Users/alex/BitBucket/ngen/client/app/components/floorplan/resolve_followup.js",
+		"/Users/alex/BitBucket/ngen/client/app/components/floorplan/floorplan_detail_title_history.html",
+		"/Users/alex/BitBucket/ngen/client/app/components/business/comments/business_comment.html",
+		"/Users/alex/BitBucket/ngen/client/app/components/business/business_detail.html",
+		"/Users/alex/BitBucket/ngen/client/app/components/business/business_search.html",
+		"/Users/alex/BitBucket/ngen/client/node_modules/lodash-node/compat/internals/baseUniq.js",
+		"/Users/alex/BitBucket/ngen/bootstrap.sh",
+		"/Users/alex/BitBucket/ngen/client/app/components/business/legal/business_legal.html",
+		"/Users/alex/BitBucket/ngen-3335-dup-detection-and-resolution/public/javascripts/app.js",
+		"/Users/alex/BitBucket/ngen-3335-dup-detection-and-resolution/public/index.html",
+		"/Users/alex/BitBucket/ngen-3335-dup-detection-and-resolution/public/javascripts/jquery.js",
+		"/Users/alex/BitBucket/ngen-3335-dup-detection-and-resolution/public/javascripts/lodash.js",
+		"/Users/alex/BitBucket/ngen-3335-dup-detection-and-resolution/app.js",
+		"/Users/alex/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/alex/BitBucket/ngen-3335-dup-detection-and-resolution/views/index.html",
+		"/Users/alex/BitBucket/ngen-3335-dup-detection-and-resolution/node_modules/jade/Readme_zh-cn.md",
+		"/Users/alex/BitBucket/ngen-3335-dup-detection-and-resolution/views/index.jade",
+		"/Users/alex/BitBucket/ngen-3335-dup-detection-and-resolution/views/error.jade",
+		"/Users/alex/BitBucket/ngen-3335-dup-detection-and-resolution/views/layout.jade",
+		"/Users/alex/BitBucket/ngen-3335-dup-detection-and-resolution/public/javascripts/angular.min.js",
+		"/Users/alex/BitBucket/ngen-3335-dup-detection-and-resolution/dup_config.json",
+		"/Users/alex/BitBucket/ngen-3335-dup-detection-and-resolution/db.json",
+		"/Users/alex/Library/Application Support/Sublime Text 3/Packages/JSHint Gutter/.jshintrc",
+		"/Users/alex/BitBucket/ngen-3335-dup-detection-and-resolution/bin/www",
+		"/Users/alex/BitBucket/ngen-3335-dup-detection-and-resolution/index.js",
+		"/Users/alex/BitBucket/ngen/client/node_modules/bower/node_modules/fstream/lib/proxy-reader.js",
+		"/Users/alex/BitBucket/ngen/client/package.json",
+		"/Users/alex/BitBucket/ngen/client/e2e/framework/helper_page_object.js",
+		"/Users/alex/BitBucket/ngen/client/e2e/tests/business/e2e_business_view_legal_spec.js",
+		"/Users/alex/BitBucket/ngen/client/e2e/framework/business_view_legal_page_object.js",
+		"/Users/alex/BitBucket/ngen/client/e2e/protractor.test.sets.json",
+		"/Users/alex/BitBucket/ngen/client/e2e/tests/business/e2e_business_main_view_spec.js",
+		"/Users/alex/BitBucket/ngen/client/e2e/tests/business/e2e_business_contacts_view_spec.js",
+		"/Users/alex/BitBucket/ngen/client/e2e/framework/business_main_page_object.js",
+		"/Users/alex/BitBucket/ngen/client/app/components/business/business_main.html",
+		"/Users/alex/BitBucket/ngen/client/app/components/business/business_main.js",
+		"/Users/alex/BitBucket/ngen/client/node_modules/karma/lib/helper.js",
+		"/Users/alex/BitBucket/ngen/client/node_modules/bower/test/helpers.js",
+		"/Users/alex/BitBucket/ngen/client/node_modules/yargs/example/help.js",
+		"/Users/alex/BitBucket/ngen/client/node_modules/bower/templates/json/help-link.json",
+		"/Users/alex/BitBucket/ngen/client/node_modules/lodash-node/compat/internals/htmlEscapes.js",
+		"/Users/alex/BitBucket/ngen/client/node_modules/bower/HOOKS.md",
+		"/Users/alex/BitBucket/ngen/client/bower.json",
+		"/Users/alex/BitBucket/ngen/client/app/components/business/payments/business_payments.js",
+		"/Users/alex/BitBucket/ngen/client/app/components/business/business_search.js",
+		"/Users/alex/BitBucket/ngen/client/target/protractor_screenshots/Change Title Management Options - E2E Business Main View Test (Mon, 23 Feb 2015 19:55:29 GMT).json",
+		"/Users/alex/BitBucket/ngen/client/e2e/tests/Floorplan_Details/e2e_floorplan_details_overview_edit_spec.js",
+		"/Users/alex/BitBucket/ngen/client/target/protractor_screenshots/Collateral Protection - Verify View Collateral Protection Policy modal remaining fields - E2E Business Collateral Protection Test (Mon, 23 Feb 2015 19:51:49 GMT).png",
+		"/Users/alex/BitBucket/ngen/client/e2e/tests/business/e2e_business_collateral_protection_spec.js",
+		"/Users/alex/BitBucket/ngen/client/app/services/grid/grid_directives.js",
+		"/Users/alex/BitBucket/ngen/client/app/components/tsm/tsm_search.js",
+		"/Users/alex/BitBucket/ngen/client/app/components/contract/contract_application.html",
+		"/Users/alex/BitBucket/ngen/client/e2e/tests/contracts/e2e_contract_comments_spec.js",
+		"/Users/alex/BitBucket/ngen/client/e2e/protractor.config.js",
+		"/Users/alex/BitBucket/ngen/client/e2e/tests/user_account/e2e_add_edit_user_spec.js",
+		"/Users/alex/BitBucket/ngen/client/e2e/tests/contracts/e2e_contract_application_area_regression_spec.js",
+		"/Users/alex/BitBucket/ngen/client/e2e/framework/contract_application_area_page_object.js",
+		"/Users/alex/BitBucket/ngen/client/e2e/tests/contracts/e2e_contract_search_regression_spec.js",
+		"/Users/alex/BitBucket/ngen/client/app/components/business/payments/business_payments.html",
+		"/Users/alex/BitBucket/ngen/client/target/protractor_screenshots/Contracts Search - Tests Contact Name and sorting - Regress the Contracts Search page (Mon, 23 Feb 2015 12:29:57 GMT).json",
+		"/Users/alex/BitBucket/ngen/client/app/components/contract/contract_detail.js",
+		"/Users/alex/BitBucket/ngen/client/app/components/contract/contract_detail.html",
+		"/Users/alex/BitBucket/ngen/client/app/components/user/useraccount_search_test.js",
+		"/Users/alex/BitBucket/ngen/client/app/components/user/useraccount_search.js",
+		"/Users/alex/BitBucket/ngen/client/app/components/user/useraccount_search.html",
+		"/Users/alex/BitBucket/ngen/client/app/directives/UI_controls.js",
+		"/Users/alex/BitBucket/ngen/client/node_modules/protractor/example/chromeOnlyConf.js",
+		"/Users/alex/BitBucket/ngen/client/config.json",
+		"/Users/alex/BitBucket/ngen/client/node_modules/bower/CONTRIBUTING.md",
+		"/Users/alex/BitBucket/ngen/client/app/components/business/collateral_protection/collateral_protection_modal_body.html",
+		"/Users/alex/BitBucket/ngen/client/app/components/business/legal/business_legal.js",
+		"/Users/alex/BitBucket/ngen/client/app/less/ngen_ux_v2/forms.less",
+		"/Users/alex/BitBucket/ngen/client/app/components/security/directives/secure_field.js",
+		"/Users/alex/BitBucket/ngen/client/app/directives/UI_controls_test.js",
+		"/Users/alex/BitBucket/ngen/client/app/services/grid/grid_service_test.js",
+		"/Users/alex/BitBucket/ngen/client/app/less/type.less",
+		"/Users/alex/BitBucket/ngen/client/e2e/framework/login_page_object.js",
+		"/Users/alex/BitBucket/ngen/client/e2e/Archive/user_account/login_spec.js",
+		"/Users/alex/BitBucket/ngen/client/app/components/security/auth/login.js",
+		"/Users/alex/BitBucket/ngen/client/app/components/security/auth/login.html",
+		"/Users/alex/BitBucket/ngen/client/node_modules/protractor/testapp/login.html",
+		"/Users/alex/BitBucket/ngen/client/node_modules/gulp-util/lib/log.js",
+		"/Users/alex/BitBucket/ngen/client/node_modules/bower/LICENSE",
+		"/Users/alex/BitBucket/ngen/client/node_modules/karma/node_modules/log4js/lib/appenders/logLevelFilter.js",
+		"/Users/alex/BitBucket/ngen/client/node_modules/lodash-node/compat/arrays/lastIndexOf.js",
+		"/Users/alex/BitBucket/ngen/client/.idea/encodings.xml",
+		"/Users/alex/BitBucket/ngen/client/node_modules/gulp-less/node_modules/less/test/less/errors/parens-error-2.less",
+		"/Users/alex/BitBucket/ngen/client/node_modules/gulp-less/node_modules/less/test/less/errors/parens-error-1.less",
+		"/Users/alex/BitBucket/ngen/client/node_modules/protractor/node_modules/selenium-webdriver/docs/class_goog_testing_AsyncTestCase_ControlBreakingException.html",
+		"/Users/alex/BitBucket/ngen/client/app/less/ngen_ux_v2/containers-sections.less",
+		"/Users/alex/BitBucket/ngen/client/app/services/util/ngen_exception.js",
+		"/Users/alex/BitBucket/ngen/client/node_modules/karma/node_modules/socket.io/node_modules/redis/generate_commands.js",
+		"/Users/alex/BitBucket/ngen/client/app/less/ngen_ux.less",
+		"/Users/alex/BitBucket/ngen/client/ngen-client.iml",
+		"/Users/alex/BitBucket/ngen/client/node_modules/protractor/node_modules/selenium-webdriver/docs/namespace_goog_events.html",
+		"/Users/alex/BitBucket/ngen/client/node_modules/protractor/node_modules/selenium-webdriver/docs/namespace_goog.html",
+		"/Users/alex/Library/Application Support/Sublime Text 3/Packages/JSHint Gutter/JSHint.sublime-settings",
+		"/Users/alex/BitBucket/ngen/client/app/app.js",
+		"/Users/alex/BitBucket/ngen/client/app/app_ctrl.js",
+		"/Users/alex/BitBucket/ngen/client/app/components/tsm/tsm_search.html",
+		"/Users/alex/BitBucket/ngen/client/node_modules/karma/node_modules/source-map/test/source-map/test-source-map-consumer.js",
+		"/Users/alex/BitBucket/ngen/client/app/components/user/add_user_modal.html",
+		"/Users/alex/BitBucket/ngen/client/app/components/user/useraccount_service.js",
+		"/Users/alex/BitBucket/ngen/client/app/components/user/useraccount_service_test.js",
+		"/Users/alex/BitBucket/ngen/client/node_modules/istanbul/node_modules/js-yaml/lib/js-yaml/schema.js",
+		"/Users/alex/BitBucket/ngen/client/app/less/ngen_ux_v2/standard-colors.less",
+		"/Users/alex/BitBucket/ngen/client/npm-shrinkwrap.json",
+		"/Users/alex/BitBucket/ngen/client/app/less/ngen_ux_v2/grid-preferences.less",
+		"/Users/alex/BitBucket/ngen/client/node_modules/gulp-ng-constant/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/indent-string/package.json",
+		"/Users/alex/BitBucket/ngen/client/node_modules/gulp-ng-constant/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/.bin/indent-string",
+		"/Users/alex/BitBucket/ngen/client/node_modules/gulp-ng-constant/node_modules/gulp-util/node_modules/lodash._reinterpolate/index.js"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/alex/BitBucket/ngen/client/app",
+			"/Users/alex/BitBucket/ngen/client",
+			"/Users/alex/BitBucket/ngen-3335-dup-detection-and-resolution",
+			"/Users/alex/BitBucket/ngen/client/app",
+			"/Users/alex/BitBucket/ngen/client/e2e",
+			"/Users/alex/BitBucket/ngen/client",
+			"/Users/alex/BitBucket/ngen/client/e2e",
+			"/Users/alex/BitBucket/ngen/client/app",
+			"/Users/alex/BitBucket/ngen/client/app/less",
+			"/Users/alex/BitBucket/ngen/client/app",
+			"/Users/alex/BitBucket/ngen/client/app/components",
+			"/Users/alex/BitBucket/ngen/client",
+			"/Users/alex/BitBucket/ngen",
+			"/Users/alex/BitBucket/ngen/client"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"DataSource",
+			".radio",
+			"radioBool",
+			"contactType",
+			"contact_type_radio_button_individual",
+			"fields",
+			"name",
+			"span",
+			"dup.",
+			"layout.jade",
+			"layout",
+			"<<",
+			"businessViewLegalPage.showSuggested.click();",
+			".click()",
+			"checkbox",
+			"checkboxd",
+			"checkbox",
+			"ngenRadioButton",
+			"browser.debugger();",
+			"getGridCheckbox",
+			"getCheckbox",
+			"getGridCheckbox",
+			"colDba",
+			"by",
+			"alex",
+			"Validate Type of Contact",
+			"equal",
+			"to.equal",
+			"toEqual",
+			"checked",
+			"doNotReleaseTitle",
+			"Change Title Management Options",
+			"helper.ngcRadioButton",
+			"helper.ngcCheckbox",
+			"hasClassName",
+			"ngcRadioButtonSelected",
+			"ngenRadioButtonSelected",
+			"ngcRadioButtonSelected",
+			"BUSINESS VIEW LEGAL",
+			"Templates Test Business Legal Templates",
+			"Business View Legal Templates Test Business Legal Templates",
+			"helper.ngcCheckbox",
+			"ngenCheckboxUnchecked",
+			"helper.ngcCheckboxUnchecked",
+			"radioBool",
+			"</ngc-checkbox>",
+			"</ngc-radio-bool>",
+			"</ngc-radio-button>",
+			"</ngc-checkbox>",
+			"</ngc-radio-button>",
+			"</ngc-radio-bool>",
+			"CHECKBOX_CHECKED_CLASS",
+			"helper.ngcRadioButtonSelected",
+			"require('expect')",
+			"expect",
+			"Grid Sorting",
+			"Tests Contact Name and sorting",
+			"contractQuickBuyer",
+			"helper.ngcCheckboxChecked",
+			"ngcCheckboxChecked",
+			"checkbox",
+			"quick",
+			"buyer",
+			"read-only=",
+			"read-only=\"true\"",
+			"disabled",
+			"read-only",
+			"radio-bool",
+			"radioBool",
+			"radio bool",
+			"radioBool",
+			"ngc-radio-bool",
+			"radio",
+			"ngc-radio",
+			"<ngc-radio-button",
+			"ngc-radio-button",
+			"ngcRadioButton",
+			"</div>",
+			"<div class=\"text-center\">",
+			"templateSearchGrid",
+			"ngcCheckbox",
+			"ngc-checkbox",
+			"<ngc-checkbox",
+			"ngc-checkbox",
+			"header",
+			"yui",
+			"jshint",
+			"clearTimeout",
+			".grid-pref",
+			"resize",
+			"reseize",
+			"window",
+			"=window",
+			"window.o",
+			"window.on",
+			"window.",
+			"k-animation",
+			"stylesheet",
+			".isNgcLien",
+			"isNgcLienOrg",
+			"FieldSvc",
+			"$scope.changes",
+			"nextGearLien",
+			" $state",
+			"SaveWarningSvc",
+			"'Field'",
+			"FieldSvc",
+			"resize",
+			"columnResize",
+			"console",
+			"resetForm",
+			"gridSort",
+			"parseDataSourceSort",
+			"$scope.parseDataSourceSort($scope.businessSearchGridDataSource.sort());",
+			"hoist",
+			"search.stockNumber",
+			"console",
+			"console.log",
+			"console",
+			" UserAccountSearchCtrl",
+			"followUp",
+			"ngcSecureField",
+			"secure",
+			"ngcfirst",
+			"search.businessNumber",
+			"launch",
+			"buyerBusinessNumber",
+			"selectedBranchIds"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"helper.ngenRadioButton",
+			"helper.ngenCheckbox",
+			"helper.ngenCheckboxChecked",
+			"disabled",
+			"<input type=\"radio\"",
+			"<input type=\"checkbox\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "css/main.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 921,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SCSS/SCSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 96.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2017,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2017,
+								2017
+							]
+						],
+						"settings":
+						{
+							"auto_indent": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 23.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "jekyll-ng-material-design.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"main.sc",
+				"css/main.scss"
+			],
+			[
+				"business_contact",
+				"client/app/components/business/contacts/business_contact.html"
+			],
+			[
+				"app.js",
+				"public/javascripts/app.js"
+			],
+			[
+				"protractor",
+				"e2e/protractor.test.sets.json"
+			],
+			[
+				"helper_page",
+				"e2e/framework/helper_page_object.js"
+			],
+			[
+				"helper_page_o",
+				"e2e/framework/helper_page_object.js"
+			],
+			[
+				"e2e_business_view_legal_spec.js",
+				"e2e/tests/business/e2e_business_view_legal_spec.js"
+			],
+			[
+				"helper_page_",
+				"e2e/framework/helper_page_object.js"
+			],
+			[
+				"e2e_business_contacts_view_spec.js",
+				"e2e/tests/business/e2e_business_contacts_view_spec.js"
+			],
+			[
+				"business_main",
+				"app/components/business/business_main.html"
+			],
+			[
+				"business_main_page_object.js",
+				"e2e/framework/business_main_page_object.js"
+			],
+			[
+				"e2e_business_collateral_protection_spec.js",
+				"e2e/tests/business/e2e_business_collateral_protection_spec.js"
+			],
+			[
+				"grid_service",
+				"app/services/grid/grid_service.js"
+			],
+			[
+				"business_payments",
+				"app/components/business/payments/business_payments.js"
+			],
+			[
+				"business_payments.js",
+				"app/components/business/payments/business_payments.js"
+			],
+			[
+				"useraccount_search",
+				"app/components/user/useraccount_search_test.js"
+			],
+			[
+				"contract_detail",
+				"app/components/contract/contract_detail.js"
+			],
+			[
+				"contract",
+				"app/components/contract/contract_detail.html"
+			],
+			[
+				"ui_cont",
+				"app/directives/UI_controls_test.js"
+			],
+			[
+				"ui_controls",
+				"app/directives/UI_controls.js"
+			],
+			[
+				"business_paym",
+				"app/components/business/payments/business_payments.js"
+			],
+			[
+				"ui_contr",
+				"app/directives/UI_controls_test.js"
+			],
+			[
+				"tsm_search",
+				"app/components/tsm/tsm_search.js"
+			],
+			[
+				"login",
+				"e2e/framework/login_page_object.js"
+			],
+			[
+				"ui_contro",
+				"app/directives/UI_controls.js"
+			],
+			[
+				"grid_direc",
+				"app/services/grid/grid_directives.js"
+			],
+			[
+				"business_search.js",
+				"app/components/business/business_search.js"
+			],
+			[
+				"protr",
+				"e2e/protractor.test.sets.json"
+			],
+			[
+				"floorplan_search",
+				"app/components/floorplan/floorplan_search.html"
+			],
+			[
+				"buiness_search",
+				"app/components/business/business_search.js"
+			],
+			[
+				"floorplan_search.html",
+				"app/components/floorplan/floorplan_search.html"
+			],
+			[
+				"business_search.j",
+				"app/components/business/business_search.js"
+			],
+			[
+				"account",
+				"app/components/user/useraccount_search.js"
+			],
+			[
+				"useraccount_search.js",
+				"app/components/user/useraccount_search.js"
+			],
+			[
+				"useraccount",
+				"app/components/user/useraccount_search.js"
+			],
+			[
+				"useraccount_searc",
+				"app/components/user/useraccount_search.js"
+			],
+			[
+				"useraccount_search_test",
+				"app/components/user/useraccount_search_test.js"
+			],
+			[
+				"useraccount_sea",
+				"app/components/user/useraccount_search.html"
+			],
+			[
+				"ui_control",
+				"app/directives/UI_controls.js"
+			],
+			[
+				"ui_con",
+				"app/directives/UI_controls.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 393.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
